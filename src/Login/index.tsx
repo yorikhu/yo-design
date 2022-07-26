@@ -4,7 +4,7 @@ type Props = {};
 const Login: React.FC<Props> = (props) => {
   return (
     <div className='login'>
-      <h1>Login World!</h1>
+      <h1>Login!</h1>
     </div>
   );
 };
