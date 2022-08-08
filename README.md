@@ -1,1 +1,1 @@
-# Ink-ui 🤧 library construction plan.
+# yorikhu-ui 🤧 library construction plan.
